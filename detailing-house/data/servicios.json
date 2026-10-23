@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Limpieza profunda de interiores",
+    "categoria": "interior",
+    "descripcion": "Aspirado, cepillado y limpieza profunda de tapicería.",
+    "precio": 1200,
+    "imagen": "photo-interior"
+  },
+  {
+    "id": 2,
+    "nombre": "Lavado exterior premium",
+    "categoria": "exterior",
+    "descripcion": "Lavado detallado y protección de pintura.",
+    "precio": 800,
+    "imagen": "photo-exterior"
+  },
+  {
+    "id": 3,
+    "nombre": "Tratamiento cerámico",
+    "categoria": "proteccion",
+    "descripcion": "Protección de pintura y acabado brillante.",
+    "precio": 2000,
+    "imagen": "photo-protection"
+  },
+  {
+    "id": 4,
+    "nombre": "Limpieza de tapicería",
+    "categoria": "interior",
+    "descripcion": "Tratamiento de manchas en asientos y respaldos.",
+    "precio": 950,
+    "imagen": "photo-interior"
+  },
+  {
+    "id": 5,
+    "nombre": "Pulido de carrocería",
+    "categoria": "exterior",
+    "descripcion": "Corrección de imperfecciones superficiales y recuperación de brillo.",
+    "precio": 1800,
+    "imagen": "photo-exterior"
+  },
+  {
+    "id": 6,
+    "nombre": "Protección de plásticos",
+    "categoria": "proteccion",
+    "descripcion": "Hidratación y protección de superficies plásticas.",
+    "precio": 650,
+    "imagen": "photo-protection"
+  }
+]
